@@ -1,0 +1,24 @@
+Host@All: los casos de uso no estan completos
+Host@All: o sea... la idea es entender cada escenario
+Host@All: cada caso
+Host@All: y ser mas explisitos para el usuario.. el cliente y el programador
+
+Host@All: en el pruebas
+Host@All: ...
+Host@All: estan las unitarias
+Host@All: falto la de modulos
+Host@All: la de sistema
+Host@All: d exploradores y distiuntas versiones
+Host@All: la dedistintos sisatemas operativos
+
+A) Documento Visión del Sistema
+B) CU Procesos Importantes
+C) Documento Arquitectura
++Evaluación de Tecnología
++Deployment
++Paquetes
++Vista Lógica(Capas)-> MVC
+D) Documento Administración de la Configuración
++ Nombre de Paquetes
++ Normas, Tags, Branches
++ Equipo de Desarrolladores
