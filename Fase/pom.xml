@@ -102,8 +102,7 @@
                     <storyReport>src/main/test/easyb.html</storyReport>      
                    <easybTestDirectory>src/test/java/Logica</easybTestDirectory> 
                </configuration> 
-            </plugin>
-            
+            </plugin>            
         </plugins>
     </build>
 
