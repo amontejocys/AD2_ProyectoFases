@@ -49,8 +49,7 @@
                         <endorseddirs>${endorsed.dir}</endorseddirs>
                     </compilerArguments>
                 </configuration>
-            </plugin>      
-                  
+            </plugin>                  
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
@@ -58,8 +57,7 @@
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
-            </plugin>     
-                   
+            </plugin>                   
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-dependency-plugin</artifactId>
@@ -84,8 +82,7 @@
                         </configuration>
                     </execution>
                 </executions>
-            </plugin>  
-                      
+            </plugin>                      
             <plugin> 
                 <groupId>org.easyb</groupId> 
                 <artifactId>maven-easyb-plugin</artifactId> 
