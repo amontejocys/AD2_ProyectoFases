@@ -103,6 +103,7 @@
                    <easybTestDirectory>src/test/java/Logica</easybTestDirectory> 
                </configuration> 
             </plugin>
+            
         </plugins>
     </build>
 
